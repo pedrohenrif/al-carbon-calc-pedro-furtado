@@ -6,3 +6,4 @@ import lombok.Data;
 public class UpdateCalcInfoResponseDTO {
   private boolean success;
 }
+
